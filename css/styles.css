@@ -329,11 +329,6 @@ button {
   padding: 100px 0;
 }
 
-.footer-logo {
-  display: inline-block;
-  margin-bottom: 16px;
-}
-
 .footer .container {
   display: flex;
   flex-direction: column;
@@ -345,5 +340,10 @@ button {
 .footer-desc {
   color: var(--light-cl);
   max-width: 264px;
+}
+
+.footer .footer-logo {
+  display: inline-block;
+  margin-bottom: 16px;
 }
 /* #endregion */
