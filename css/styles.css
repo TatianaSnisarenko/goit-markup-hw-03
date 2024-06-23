@@ -177,13 +177,10 @@ button {
   gap: 40px;
 }
 
-.nav-item {
-  padding: 24px 0;
-}
-
 .nav-link {
   font-weight: 500;
   color: var(--dark-cl);
+  padding: 24px 0;
 }
 
 .address-list {
@@ -332,7 +329,7 @@ button {
   padding: 100px 0;
 }
 
-.footer .logo {
+.footer-logo {
   display: inline-block;
   margin-bottom: 16px;
 }
