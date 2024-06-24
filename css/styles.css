@@ -329,20 +329,12 @@ button {
   padding: 100px 0;
 }
 
-.footer .container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-  flex-wrap: wrap;
-}
-
 .footer-desc {
   color: var(--light-cl);
   max-width: 264px;
 }
 
-.footer .footer-logo {
+.footer .logo {
   display: inline-block;
   margin-bottom: 16px;
 }
