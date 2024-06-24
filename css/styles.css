@@ -181,6 +181,7 @@ button {
   font-weight: 500;
   color: var(--dark-cl);
   padding: 24px 0;
+  display: block;
 }
 
 .address-list {
